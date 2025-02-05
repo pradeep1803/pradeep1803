@@ -19,15 +19,15 @@ A highly motivated and skilled recent graduate with a B.E. in Electronics and Co
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep1803&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> </p>
 
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </p>
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pradeep1803&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repo
+<p align="center"><img  src="https://github-contributor-stats.vercel.app/api?username=pradeep1803&limit=5&theme=dark&combine_all_yearly_contributions=true" /></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pradeep1803&icon=0&color=0)](https://visitcount.itsvg.in)
