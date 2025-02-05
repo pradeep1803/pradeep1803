@@ -19,7 +19,7 @@ A highly motivated and skilled recent graduate with a B.E. in Electronics and Co
 
 
 ### ✍️ Random Dev Quote
-<h1 align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)</h1>
+<align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pradeep1803&limit=5&theme=dark&combine_all_yearly_contributions=true)
