@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm PRADEEP S</h2>
-<h5 align="center">💡 Passionate about building scalable cloud solutions, automating infrastructure, and streamlining DevOps workflows!</h5>
+<h2 align="center">**Hi 👋, I'm PRADEEP S**</h2>
+<h5 align="center">**💡 Passionate about building scalable cloud solutions, automating infrastructure, and streamlining DevOps workflows!**</h5>
 
 ---  
 # 💫 About Me:
