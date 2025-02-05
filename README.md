@@ -1,6 +1,7 @@
 <h2 align="center">Hi 👋, I'm PRADEEP S</h2>
 <h5 align="center">💡 Passionate about building scalable cloud solutions, automating infrastructure, and streamlining DevOps workflows!</h5>
-  
+
+---  
 # 💫 About Me:
 A highly motivated and skilled recent graduate with a B.E. in Electronics and Communication Engineering (2024) from Bannari Amman Institute of Technology, eager to launch a career in cloud computing, DevOps, or infrastructure management.  Possesses a strong foundation in AWS (including core services like EC2, S3, VPC, IAM), Linux system administration, and networking principles.  Familiar with DevOps tools such as Docker, Kubernetes, Jenkins, Bash scripting, and Ansible, and actively developing skills in these areas.  Completed hands-on projects involving network implementation, system administration tasks, and basic cloud architecture design.  A quick learner, adaptable, and passionate about contributing to a collaborative team environment while expanding knowledge in cutting-edge technologies.
 
