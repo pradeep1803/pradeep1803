@@ -21,8 +21,9 @@ A highly motivated and skilled recent graduate with a B.E. in Electronics and Co
 ### ✍️ Random Dev Quote
 < align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 <p align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </p>
+
 
 
 ### 🔝 Top Contributed Repo
