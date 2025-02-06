@@ -9,7 +9,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__pradeep_s_7?igsh=MWJrb3Ftd3hybjNmZw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pradeep-s-119902245/)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/SPRADEEP98424?t=ic2FzBDubR_ocFzM7Vk2IQ&s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sureshpradeep.93454@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__pradeep_s_7?igsh=MWJrb3Ftd3hybjNmZw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pradeep-s-119902245/)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/SPRADEEP98424?t=ic2FzBDubR_ocFzM7Vk2IQ&s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sureshpradeep.93454@gmail.com) [![HackerRank]([https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AHackerRank_Icon-1000px.png&psig=AOvVaw1niJ2QgN_XdxnpfAKG1nro&ust=1738900837963000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiPuc-UrosDFQAAAAAdAAAAABAE))]([mailto:sureshpradeep.93454@gmail.com](https://www.hackerrank.com/profile/sureshpradeep_91)) 
 
 ## 💻 Languages and Tools:
 
